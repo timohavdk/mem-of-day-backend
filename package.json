@@ -9,7 +9,8 @@
     "start-server": "node server.js",
     "start-dev-server": "node --watch server.js",
     "file-process": "node ./testImageProcessor/processor.js",
-    "word-process": "node ./database/processor.js"
+    "word-process": "node ./database/processor.js",
+    "svg-process": "node ./lib/processor.js"
   },
   "keywords": [
     "node",
