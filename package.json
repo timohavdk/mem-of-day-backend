@@ -10,7 +10,7 @@
     "start-dev-server": "node --watch server.js",
     "file-process": "node ./testImageProcessor/processor.js",
     "word-process": "node ./database/processor.js",
-    "svg-process": "node ./lib/processor.js"
+    "composite-process": "node ./lib/composite.js"
   },
   "keywords": [
     "node",
